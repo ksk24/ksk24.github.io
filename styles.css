@@ -1,3 +1,12 @@
 body {
+
     background-color: lightblue;
+}
+h1 {
+    font-size: 5em;
+    font-family: "georgia";
+}
+h2 {
+    font-size: 2em;
+    font-family: "georgia";
 }
